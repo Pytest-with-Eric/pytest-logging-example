@@ -6,3 +6,4 @@ venv/
 *.idea
 *.ruff_cache
 *.log
+*logs
