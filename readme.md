@@ -1,10 +1,10 @@
 # How to Use Pytest Logging And Print To Console And File? (A Comprehensive Guide)
-This repo contains the sample code for the article - [How to Use Pytest Logging And Print To Console And File? (A Comprehensive Guide)](https://pytest-with-eric.com/pytest-best-practices/pytest-logging/)
+This repo contains the sample code for the article - [How To Use Pytest Logging And Print To Console And File (A Comprehensive Guide)](https://pytest-with-eric.com/pytest-best-practices/pytest-logging/)
 
 This project explains how to use Pytest logging and print to console and file. 
 
 # Requirements
-* Python (≥ 3.9)
+* Python (≥ 3.10)
 
 Please install the dependencies via the `requirements.txt` file using 
 ```commandline
